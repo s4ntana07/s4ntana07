@@ -24,7 +24,7 @@ Desenvolvedor apaixonado por aprender, criar e compartilhar! Sempre em busca de 
 <h3>Plataforma/Runtime:</h3><code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
 <h3>Frameworks:</h3> <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
 <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" /></code>
-<code><img height="32" src="https://e7.pngegg.com/pngimages/439/345/png-clipart-bootstrap-logo-thumbnail-tech-companies-thumbnail.png" /></code>
+<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png" /></code>
 
 <h3>Ferramentas:</h3> Git, GitHub, Docker, VS Code, Postman, Insomnia
 <h3>Banco de Dados:</h3> PostgreSQL, MySQL
