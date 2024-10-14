@@ -35,7 +35,7 @@ Desenvolvedor apaixonado por aprender, criar e compartilhar! Sempre em busca de 
   <code><img height="32 "src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" /></code>
   <code><img height="32 "src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg"/></code>
   <code><img height="32 "src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"/></code>
-  
+  <code><img height="32 "src="https://w7.pngwing.com/pngs/17/131/png-transparent-postman-logo-thumbnail-tech-companies-thumbnail.png"/></code>
 </p>
 <h3>Banco de Dados:</h3> PostgreSQL, MySQL
 
