@@ -21,8 +21,11 @@ Desenvolvedor apaixonado por aprender, criar e compartilhar! Sempre em busca de 
   <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="PHP"/></code>
   <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="SQL"/></code>
 </p>
-<h3>Plataforma/Runtime:</h3>Node.js
-<h3>Frameworks:</h3> React, Laravel, Bootstrap, Django
+<h3>Plataforma/Runtime:</h3><code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
+<h3>Frameworks:</h3> <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
+<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" /></code>
+<code><img height="32" src="https://e7.pngegg.com/pngimages/439/345/png-clipart-bootstrap-logo-thumbnail-tech-companies-thumbnail.png" /></code>
+
 <h3>Ferramentas:</h3> Git, GitHub, Docker, VS Code, Postman, Insomnia
 <h3>Banco de Dados:</h3> PostgreSQL, MySQL
 
