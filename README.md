@@ -21,12 +21,21 @@ Desenvolvedor apaixonado por aprender, criar e compartilhar! Sempre em busca de 
   <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="PHP"/></code>
   <code><img height="32" src="https://www.netgen.co.za/wp-content/uploads/2023/05/SQL-Database.png" alt="SQL"/></code>
 </p>
-<h3>Plataforma/Runtime:</h3><code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
-<h3>Frameworks:</h3> <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
-<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" /></code>
-<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png" /></code>
-
-<h3>Ferramentas:</h3> Git, GitHub, Docker, VS Code, Postman, Insomnia
+<p>
+  <h3>Plataforma/Runtime:</h3><code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
+  <h3>Frameworks:</h3> <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
+  <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" /></code>
+  <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png" /></code>
+</p>
+<p>
+  <h3>Ferramentas:</h3> 
+  <code><img height="32 "src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" /></code>
+  <code><img height="32 "src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" /></code>
+  <code><img height="32 "src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eslint/eslint-plain.svg" /></code>
+  <code><img height="32 "src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" /></code>
+  <code><img height="32 "src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" /></code>
+  <code><img height="32 "src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg"/></code>  
+</p>
 <h3>Banco de Dados:</h3> PostgreSQL, MySQL
 
 <h2>🧑‍💻 Metodologias Ágeis</h2>
