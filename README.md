@@ -31,10 +31,10 @@ Desenvolvedor apaixonado por aprender, criar e compartilhar! Sempre em busca de 
   <h3>Ferramentas:</h3> 
   <code><img height="32 "src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" /></code>
   <code><img height="32 "src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" /></code>
-  <code><img height="32 "src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eslint/eslint-plain.svg" /></code>
+  <code><img height="32 "src="https://cdn-icons-png.flaticon.com/512/25/25231.png" /></code>
   <code><img height="32 "src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" /></code>
-  <code><img height="32 "src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" /></code>
-  <code><img height="32 "src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg"/></code>  
+  <code><img height="32 "src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg"/></code>
+  <code><img height="32 "src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" /></code>
 </p>
 <h3>Banco de Dados:</h3> PostgreSQL, MySQL
 
