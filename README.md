@@ -19,7 +19,7 @@ Desenvolvedor apaixonado por aprender, criar e compartilhar! Sempre em busca de 
   <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
   <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
   <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="PHP"/></code>
-  <code><img height="32" src="https://w7.pngwing.com/pngs/525/959/png-transparent-microsoft-azure-sql-database-microsoft-sql-server-cloud-computing-text-trademark-logo-thumbnail.png" alt="SQL"/></code>
+  <code><img height="32" src="https://www.netgen.co.za/wp-content/uploads/2023/05/SQL-Database.png" alt="SQL"/></code>
 </p>
 <h3>Plataforma/Runtime:</h3><code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
 <h3>Frameworks:</h3> <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
