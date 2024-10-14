@@ -33,12 +33,15 @@ Desenvolvedor apaixonado por aprender, criar e compartilhar! Sempre em busca de 
   <code><img height="32 "src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" /></code>
   <code><img height="32 "src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_960_720.png" /></code>
   <code><img height="32 "src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" /></code>
+  <code><img height="32 "src="https://static-00.iconduck.com/assets.00/yarn-original-icon-256x256-gh6uo2q2.png"/></code>
   <code><img height="32 "src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg"/></code>
   <code><img height="32 "src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"/></code>
   <code><img height="32 "src="https://cdn.iconscout.com/icon/free/png-256/free-postman-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-company-brand-vol-5-pack-logos-icons-2945092.png?f=webp&w=256"/></code>
-  <code><img height="32 "src="https://static-00.iconduck.com/assets.00/yarn-original-icon-256x256-gh6uo2q2.png"/></code>
 </p>
-<h3>Banco de Dados:</h3> PostgreSQL, MySQL
+<h3>Banco de Dados:</h3> 
+  <code><img height="32 "src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1985px-Postgresql_elephant.svg.png"/></code>
+  <code><img height="32 "src="https://w7.pngwing.com/pngs/717/111/png-transparent-mysql-round-logo-tech-companies-thumbnail.png"/></code>
+
 
 <h2>🧑‍💻 Metodologias Ágeis</h2>
 
