@@ -36,6 +36,7 @@ Desenvolvedor apaixonado por aprender, criar e compartilhar! Sempre em busca de 
   <code><img height="32 "src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg"/></code>
   <code><img height="32 "src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"/></code>
   <code><img height="32 "src="https://cdn.iconscout.com/icon/free/png-256/free-postman-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-company-brand-vol-5-pack-logos-icons-2945092.png?f=webp&w=256"/></code>
+  <code><img height="32 "src="https://static-00.iconduck.com/assets.00/yarn-original-icon-256x256-gh6uo2q2.png"/></code>
 </p>
 <h3>Banco de Dados:</h3> PostgreSQL, MySQL
 
