@@ -13,12 +13,13 @@ Desenvolvedor apaixonado por aprender, criar e compartilhar! Sempre em busca de 
 
 <h2>🚀 Tecnologias que uso</h2>
 <p>
-  <h3>Linguagens de Programação:</h3> JavaScript, TypeScript, HTML, CSS, SQL, PHP
+  <h3>Linguagens de Programação:</h3>
   <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
   <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
   <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
   <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
   <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="PHP"/></code>
+  <code><img height="32" src="https://www.tshirtgeek.com.br/wp-content/uploads/2021/09/com037-scaled.jpg" alt="SQL"/></code>
 </p>
 <h3>Plataforma/Runtime:</h3>Node.js
 <h3>Frameworks:</h3> React, Laravel, Bootstrap, Django
