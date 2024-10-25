@@ -27,7 +27,7 @@ Desenvolvedor apaixonado por aprender, criar e compartilhar! Sempre em busca de 
 
 ### Ferramentas:
 
-[![My Skills](https://skillicons.dev/icons?i=,postman,git,github,docker,vscode,vite,npm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=,postman,insomnia,git,github,docker,vscode,vite,npm)](https://skillicons.dev)
 
 
 ## 🧑‍💻 Metodologias Ágeis
