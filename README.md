@@ -12,7 +12,7 @@ Desenvolvedor apaixonado por aprender, criar e compartilhar! Sempre em busca de 
 - 🎮 Fora do código, gosto de jogar, explorar novos jogos e praticar esportes.
 
 ## 🚀 Tecnologias
-### Linguagens de Programação:
+### Linguagens:
 
 [![My Skills](https://skillicons.dev/icons?i=,typescript,php,postgres,mysql,js,html,css,sass)](https://skillicons.dev)
 
